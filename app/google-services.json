@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1008898713881",
+    "project_id": "message-63389",
+    "storage_bucket": "message-63389.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1008898713881:android:770e56552b521565447d88",
+        "android_client_info": {
+          "package_name": "com.khwahish.chat_app_khwahish"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1008898713881-f6vnrfaml85dnpmdil4k02m043nep4ha.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrKtN-cKreceA1DpJ5iyZHiQd3zUvOdiU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1008898713881-f6vnrfaml85dnpmdil4k02m043nep4ha.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
